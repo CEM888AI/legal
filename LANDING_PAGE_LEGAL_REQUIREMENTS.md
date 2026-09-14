@@ -34,16 +34,19 @@ One line near any "consciousness / personality / autonomous agent" claim:
 Cuts FTC deception risk (claims that overstate AI capability) and feeds the
 contractual assumption-of-risk language.
 
-### A4. Subscription auto-renewal disclosure at checkout — **[TODO — must add]**
-Wherever a price is shown ($29/mo) and at the Stripe checkout:
+### A4. Recurring-charge disclosure at checkout — **[TODO — must add]**
+The runtime is free under the AGPL-3.0; **no subscription price is published
+for it and none should be shown.** Wherever an *optional paid service* (for
+example managed hosting) is priced and at the Stripe checkout:
 
-> Billed $29.00/month until cancelled. Subscriptions auto-renew. Cancel
-> anytime — access continues to the end of the billing period.
+> Billed monthly until cancelled. Renews automatically. Cancel anytime —
+> access continues to the end of the billing period.
 
 Required by FTC ROSCA (Restore Online Shoppers' Confidence Act): clear and
 conspicuous disclosure of recurring charges BEFORE payment, plus an easy
 cancellation path. This is the single most likely regulator/chargeback
-vector for a subscription product — put it directly above the pay button.
+vector for a recurring service — put it directly above the pay button.
+State plainly that the free runtime requires no payment at all.
 
 ### A5. DMCA / IP contact — **[TODO — add to footer or Terms]**
 "legal@cem888.ai" for copyright complaints. (Details live in ToS §15.)
@@ -98,4 +101,5 @@ handler must capture it before CEM-151 is closed.
 - Privacy Policy → `/privacy.html` (also `PRIVACY_POLICY.md`)
 - EULA → new page `/eula.html` **[TODO — needs to be added + linked]**
 - Early-Access/Beta Agreement → new page `/beta.html` **[TODO — needs to be added + linked]**
-- Proprietary LICENSE → `LICENSE.md` in the legal repo + packaged with installers
+- Software license (AGPL-3.0 community lane + separate paid commercial license)
+  → `LICENSE.md` in the legal repo + packaged with installers
