@@ -5,6 +5,8 @@ Public-facing legal paperwork for the CEM888.AI platform, operated by
 and claim CEM888's intellectual property. Customer-facing versions are
 linked from cem888.ai.
 
+> Part of **[CEM888.AI](https://github.com/CEM888AI)** · flagship overview: **[cem888](https://github.com/CEM888AI/cem888)**
+
 ## Documents
 
 | Document | Purpose | Status |
