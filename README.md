@@ -11,7 +11,7 @@ linked from cem888.ai.
 
 | Document | Purpose | Status |
 |---|---|---|
-| [LICENSE.md](LICENSE.md) | Proprietary software license — ALL RIGHTS RESERVED | Active |
+| [LICENSE.md](LICENSE.md) | Software licensing — AGPL-3.0 (community) + paid commercial license | Active |
 | [EULA.md](EULA.md) | End User License Agreement for downloaded agent software | Active |
 | [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md) | Website + Service Terms (clickwrap at signup) | Active |
 | [PRIVACY_POLICY.md](PRIVACY_POLICY.md) | Privacy policy (CCPA/CPRA + GDPR ready) | Active |
@@ -22,8 +22,9 @@ linked from cem888.ai.
 
 ## Effective dates
 
-All customer-facing documents: **September 8, 2026**. Site HTML versions
-(`/terms.html`, `/privacy.html`) were upgraded to match on this date.
+All customer-facing documents: **September 8, 2026**, updated **September 14, 2026** to align the licence scope (AGPL-3.0 free runtime +
+separate paid commercial licence) across the legal repo and the site HTML
+versions (`/terms.html`, `/privacy.html`, `/eula.html`, `/support.html`).
 
 ## Disclaimer
 
