@@ -1,6 +1,6 @@
 # CEM888 End User License Agreement (EULA)
 
-**Last Updated: September 8, 2026**
+**Last Updated: September 14, 2026**
 
 This End User License Agreement ("EULA") is a legal agreement between you
 (either an individual or a single entity) and **CEM Unlimited LLC**
@@ -13,35 +13,45 @@ DO NOT DOWNLOAD OR USE THE SOFTWARE.**
 
 ## 1. License Grant
 
-Subject to your payment of all applicable fees (or an active beta/early-access
-grant) and your compliance with this EULA and the CEM888 Terms of Service, we
-grant you a limited, non-exclusive, non-transferable, revocable license to:
+Two different things are licensed here, and this section keeps them separate.
 
-- Install and run the Software on machines you own or control, for your own
-  personal or internal business purposes; and
-- Use the Software's agent features to interact with your own files,
-  applications, accounts, integrations, and APIs, as you direct.
+**(a) The Software (the CEM888 runtime).** The Software is free to download,
+install, and use and is licensed to you under the **GNU Affero General Public
+License, version 3 (AGPL-3.0)**, whose full text ships with the Software as
+`LICENSE`. That licence is what grants you the rights to run, copy, modify, and
+redistribute the Software. It charges no fee, requires no account, access code,
+membership, or payment, and nothing in this EULA narrows it. **Where any
+provision of this EULA conflicts with the AGPL-3.0 as applied to the Software,
+the AGPL-3.0 governs.**
 
-No other rights are granted. **All rights not expressly granted are reserved
-to CEM Unlimited LLC.**
+**(b) The hosted Service.** Subject to your compliance with this EULA and the
+CEM888 Terms of Service and to payment of any fees for optional paid services
+you order, we grant you a limited, non-exclusive, non-transferable, revocable
+license to access and use the hosted Service, for your own personal or internal
+business purposes. This licence covers the hosted Service only — it does not
+extend to the Software, which is governed by the AGPL-3.0 as stated in (a).
 
 ## 2. Restrictions
 
-You agree NOT to:
+**Nothing in this section restricts any right the AGPL-3.0 grants you in the
+Software. Where this section conflicts with the AGPL-3.0 as applied to the
+Software, the AGPL-3.0 governs.** As to the hosted Service only, you agree NOT
+to:
 
-1. Copy, reproduce, or distribute the Software except as permitted above;
-2. Modify, adapt, or create derivative works of the Software;
-3. Reverse engineer, decompile, or disassemble the Software, or attempt to
-   derive its source code, except to the extent applicable law forbids this
-   restriction;
+1. Copy, reproduce, or distribute the hosted Service except as permitted above;
+2. Modify, adapt, or create derivative works of the hosted Service;
+3. Reverse engineer, decompile, or disassemble the hosted Service, or attempt
+   to derive the source code of any component of it that is not made available
+   to you under the AGPL-3.0;
 4. Remove, obscure, or alter any copyright, trademark, or proprietary notice;
-5. Rent, lease, lend, sell, resell, sublicense, or provide the Software as a
-   service to third parties;
+5. Rent, lease, lend, sell, resell, sublicense, or provide the hosted Service
+   as a service to third parties;
 6. Rebrand, white-label, or hold yourself out as the source or owner of the
-   Software;
-7. Circumvent any license-enforcement or entitlement mechanism;
-8. Use the Software to violate any law, or to infringe any third party's
-   rights.
+   hosted Service;
+7. Circumvent any access-control or tenant-isolation mechanism of the hosted
+   Service;
+8. Use the Software or the hosted Service to violate any law, or to infringe
+   any third party's rights.
 
 ## 3. Your Data and Your Direction
 
@@ -74,26 +84,43 @@ for their availability, accuracy, practices, or policies. BYOK
 The Software and all intellectual property in it — source code, architecture,
 memory/state design, integration methods, prompts, documentation, branding,
 and trade secrets — are owned by CEM Unlimited LLC. This EULA does not
-transfer any ownership to you. If you provide feedback or suggestions, you
+transfer any ownership to you. **Copyright ownership is not a restriction on
+your licence: the Software's source code is licensed to you under the AGPL-3.0
+as set out in Section 1, and nothing in this EULA limits the rights that
+licence grants you.** If you provide feedback or suggestions, you
 grant us an unrestricted, irrevocable, worldwide, royalty-free license to use
 them, and you assign to us any rights you may hold in them.
 
-## 6. Subscription, Payment, and Renewal
+## 6. License and Optional Paid Services
 
-Use of the Software requires an active subscription at the rate displayed at
-time of purchase. Subscriptions **auto-renew** until cancelled. You may cancel
-at any time; cancellation takes effect at the end of the current billing
-period. We may modify pricing with 30 days' notice. Unpaid or lapsed
-subscriptions terminate this license, and the Software will cease to operate
-in accordance with its entitlement mechanism.
+**The Software is free to download, install, and use and does not require a
+subscription, membership, or payment of any kind.** The Software is licensed to
+you under the **GNU Affero General Public License, version 3 (AGPL-3.0)**, whose
+full text ships with the Software as `LICENSE`. Separately, CEM Unlimited LLC
+offers a negotiated commercial license for organizations that cannot accept
+AGPL-3.0 terms or that require proprietary redistribution or enterprise
+support; that commercial license is a separate written agreement and is not a
+modification of the AGPL-3.0.
+
+Only optional paid services — hosting, managed operation, custom builds, and
+sponsorship — are billed, and each is billed on the terms stated when you order
+it. Some optional services, such as managed hosting, are billed monthly and
+renew until cancelled; a service renews only if you explicitly subscribe to it.
+We may modify optional-service pricing with 30 days' notice; changes do not
+apply to your then-current billing period. **Non-payment for an optional paid
+service does not terminate, limit, or revoke your AGPL-3.0 rights in the
+Software.**
 
 ## 7. Termination
 
 This EULA is effective until terminated. It terminates automatically if you
 breach any term. We may terminate it, or suspend your access, for violation
 of the Terms of Service or this EULA, with or without notice. On termination:
-(i) your license ends; (ii) you must stop using and delete the Software; and
-(iii) sections 2, 3, 5, 8, 9, 10, and 11 survive.
+(i) this EULA and your access to the hosted Service and any optional paid
+service end; (ii) you must stop using the hosted Service; and (iii) sections 2,
+3, 5, 8, 9, 10, and 11 survive. **Termination of this EULA does not terminate,
+limit, or revoke the rights the AGPL-3.0 grants you in the Software; those
+rights continue for as long as you comply with the AGPL-3.0.**
 
 ## 8. Disclaimer of Warranties
 
@@ -139,7 +166,8 @@ actions).
 ## 12. General
 
 This EULA, together with the Terms of Service and Privacy Policy, is the
-entire agreement between you and us regarding the Software. If any provision
+entire agreement between you and us regarding the Software. Where this EULA and
+the AGPL-3.0 conflict as applied to the Software, the AGPL-3.0 governs. If any provision
 is unenforceable, the remainder stays in effect. Our failure to enforce a
 provision is not a waiver. We may update this EULA by posting a revised
 version; continued use after the revision date constitutes acceptance. You
