@@ -23,40 +23,62 @@ authorized to bind that entity, and "you" means the entity.
 
 You are responsible for maintaining the confidentiality of your account
 credentials and for all activity under your account. Notify us immediately of
-any unauthorized use. You may not share access in a way that violates your
-subscription's entitlements or create accounts through unauthorized or
-automated means.
+any unauthorized use. You may not share access in a way that circumvents the
+Service's tenant isolation or usage limits, or create accounts through
+unauthorized or automated means.
 
-## 3. Subscription, Payment, and Auto-Renewal
+## 3. Free Runtime and Optional Paid Services
 
-The Service is offered on a paid subscription basis at the rates displayed at
-the time of purchase (e.g., $29/month for the customer agent). By purchasing
-you agree to the following:
+**The downloaded CEM888 runtime is free and requires no subscription,
+membership, or payment.** It is licensed under the AGPL-3.0 as described in
+Section 4. Nothing must be purchased in order to download, install, or run it.
 
-- **Auto-renewal.** Subscriptions automatically renew at the end of each
-  billing period until cancelled. You authorize us (or our payment processor)
-  to charge the payment method on file for each renewal.
+Separately, CEM Unlimited LLC offers **optional paid services** — managed
+hosting, managed operation, and custom enterprise or local builds. These are
+conveniences you may choose to order, never a requirement for using the
+runtime. Custom work is quoted per engagement; contact legal@cem888.ai or
+creator@cem888.ai for custom pricing. By ordering an optional paid service you
+agree to the following:
+
+- **Recurring billing.** Some optional services, such as managed hosting, are
+  billed monthly. A service renews only if you explicitly subscribe to it, and
+  it renews at the rate shown when you ordered until cancelled. You authorize
+  us (or our payment processor) to charge the payment method on file for each
+  renewal.
 - **Cancellation.** You may cancel at any time through your account or by
   contacting us. Cancellation takes effect at the end of the current billing
-  period; you will retain access until then.
-- **Refunds.** Fees are non-refundable except where required by law or as
-  stated at checkout. We consider refund requests made within seven (7) days
-  of a charge on a case-by-case basis.
-- **Price changes.** We may modify pricing with thirty (30) days' notice.
-  Price changes do not apply to your then-current billing period.
-- **Non-payment.** If payment fails or lapses, your access and the
-  Service's operation may be suspended or terminated in accordance with the
-  entitlement mechanism.
+  period; you will retain the service until then.
+- **Refunds.** Fees for optional services are non-refundable except where
+  required by law or as stated at checkout. We consider refund requests made
+  within seven (7) days of a charge on a case-by-case basis.
+- **Price changes.** We may modify optional-service pricing with thirty (30)
+  days' notice. Price changes do not apply to your then-current billing period.
+- **Non-payment.** If payment for an optional paid service fails or lapses,
+  that service may be suspended or terminated. **Non-payment for an optional
+  paid service does not terminate, limit, or revoke your AGPL-3.0 rights in
+  the runtime.**
 
 ## 4. License to the Service
 
-The Service and all software provided through it are licensed, not sold,
-under the **CEM888 Proprietary Software License** and, for downloaded agent
-software, the **CEM888 End User License Agreement (EULA)** available at
-cem888.ai — each incorporated into these Terms by reference. Your license is
+The hosted Service is provided under the optional paid services described in
+Section 3 and is licensed, not sold. The license to the hosted Service is
 limited, non-exclusive, non-transferable, revocable, and conditioned on
-compliance with these Terms. **All rights not expressly granted are reserved
-to CEM Unlimited LLC.**
+compliance with these Terms.
+
+**Downloaded agent software (the "runtime") is free to download, install, and
+use**, requires no account, access code, membership, or payment, and is licensed
+to you under the **GNU Affero General Public License, version 3 (AGPL-3.0)**,
+whose full text ships with the runtime as `LICENSE`. Nothing in these Terms
+restricts the rights the AGPL-3.0 grants you in the runtime source code. Where
+these Terms conflict with the AGPL-3.0 as applied to the runtime, the AGPL-3.0
+governs. The EULA available at cem888.ai is incorporated into these Terms by
+reference.
+
+Separately, **CEM Unlimited LLC offers a negotiated commercial license** for
+organizations that cannot accept AGPL-3.0 terms or that require proprietary
+redistribution, private modifications, or an enterprise support agreement. That
+commercial license is a separate written agreement and is **not** a modification
+of the AGPL-3.0.
 
 ## 5. Acceptable Use
 
@@ -69,10 +91,12 @@ You agree not to use the Service to:
   infrastructure, or other users' accounts;
 - Use the Service's OS-control features to access systems you do not own or
   lack authorization to control;
-- Resell, redistribute, rebrand, or white-label the Service without explicit
-  written permission;
-- Reverse engineer, decompile, or attempt to derive the Service's source code
-  except as permitted by the applicable license or law;
+- Resell, redistribute, rebrand, or white-label the hosted Service without
+  explicit written permission; this restriction does not limit any right the
+  AGPL-3.0 grants you in the runtime source code;
+- Reverse engineer, decompile, or attempt to derive the source code of any part
+  of the hosted Service that is not licensed to you under the AGPL-3.0 (for the
+  runtime itself, the AGPL-3.0 governs and expressly permits this);
 - Interfere with or disrupt the Service or its connected networks.
 
 We may suspend or terminate accounts that violate these Terms.
@@ -149,7 +173,8 @@ officers, directors, employees, agents, and affiliates from any claims,
 damages, liabilities, and expenses (including reasonable attorneys' fees)
 arising out of or relating to: (a) your use of the Service; (b) your
 instructions to agents and the agents' resulting actions; (c) your violation
-of these Terms, the EULA, or the Proprietary License; (d) your violation of
+of these Terms, the EULA, or the license applicable to the software you use;
+(d) your violation of
 any law or third-party right; or (e) any content you submit or generate
 through the Service.
 
@@ -157,8 +182,11 @@ through the Service.
 
 You may stop using the Service and terminate your account at any time. We may
 suspend or terminate your access for violation of these Terms, with or
-without notice. Upon termination: your license ends; we may disable your
-account; and sections 5–18 survive as applicable. We will handle your data as
+without notice. Upon termination: your access to the hosted Service ends and the licence in
+these Terms for the hosted Service ends; we may disable your account; and
+sections 5–18 survive as applicable. **Termination of your account does not
+terminate, limit, or revoke the rights the AGPL-3.0 grants you in the runtime;
+those rights continue for as long as you comply with the AGPL-3.0.** We will handle your data as
 described in the Privacy Policy.
 
 ## 13. Dispute Resolution: Arbitration, Class-Action Waiver, Governing Law
@@ -214,8 +242,9 @@ Service after the revision date constitutes acceptance of the revised Terms.
 
 ## 17. General
 
-These Terms, together with the Privacy Policy, EULA, and Proprietary License,
-constitute the entire agreement between you and us. If any provision is held
+These Terms, together with the Privacy Policy, the EULA, and the license
+applicable to the software (the AGPL-3.0, or a separate negotiated commercial
+license where one applies), constitute the entire agreement between you and us. If any provision is held
 unenforceable, the remainder remains in effect. Our failure to enforce any
 provision is not a waiver. You may not assign these Terms without our written
 consent; we may assign them in connection with a merger, acquisition, or sale
