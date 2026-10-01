@@ -1,6 +1,6 @@
 # CEM888.AI Terms of Service
 
-**Effective Date: September 8, 2026 · Last Updated: September 8, 2026**
+**Effective Date: September 8, 2026 · Last Updated: October 1, 2026**
 
 These Terms of Service ("Terms") govern your use of the CEM888.AI platform,
 including the website, dashboards, AI agent services, messaging gateway,
@@ -27,58 +27,21 @@ any unauthorized use. You may not share access in a way that circumvents the
 Service's tenant isolation or usage limits, or create accounts through
 unauthorized or automated means.
 
-## 3. Free Runtime and Optional Paid Services
+## 3. Software Licensing and Paid Services
 
-**The downloaded CEM888 runtime is free and requires no subscription,
-membership, or payment.** It is licensed under the AGPL-3.0 as described in
-Section 4. Nothing must be purchased in order to download, install, or run it.
+Current CEM888 releases are source-available under Business Source License 1.1 as described in Section 4. Evaluation and non-production use are available under that license, and personal non-commercial production use is permitted by the current Additional Use Grant.
 
-Separately, CEM Unlimited LLC offers **optional paid services** — managed
-hosting, managed operation, and custom enterprise or local builds. These are
-conveniences you may choose to order, never a requirement for using the
-runtime. Custom work is quoted per engagement; contact legal@cem888.ai or
-creator@cem888.ai for custom pricing. By ordering an optional paid service you
-agree to the following:
+**Business production use requires a paid commercial license from CEM Unlimited LLC.** Commercial licensing, implementation, integration, support, certification, managed operation, and other services may be priced separately.
 
-- **Recurring billing.** Some optional services, such as managed hosting, are
-  billed monthly. A service renews only if you explicitly subscribe to it, and
-  it renews at the rate shown when you ordered until cancelled. You authorize
-  us (or our payment processor) to charge the payment method on file for each
-  renewal.
-- **Cancellation.** You may cancel at any time through your account or by
-  contacting us. Cancellation takes effect at the end of the current billing
-  period; you will retain the service until then.
-- **Refunds.** Fees for optional services are non-refundable except where
-  required by law or as stated at checkout. We consider refund requests made
-  within seven (7) days of a charge on a case-by-case basis.
-- **Price changes.** We may modify optional-service pricing with thirty (30)
-  days' notice. Price changes do not apply to your then-current billing period.
-- **Non-payment.** If payment for an optional paid service fails or lapses,
-  that service may be suspended or terminated. **Non-payment for an optional
-  paid service does not terminate, limit, or revoke your AGPL-3.0 rights in
-  the runtime.**
+Recurring billing, cancellation, refunds, and price changes for any paid plan are governed by the checkout, order form, quote, or written commercial agreement accepted by the customer.
 
 ## 4. License to the Service
 
-The hosted Service is provided under the optional paid services described in
-Section 3 and is licensed, not sold. The license to the hosted Service is
-limited, non-exclusive, non-transferable, revocable, and conditioned on
-compliance with these Terms.
+The hosted Service is licensed, not sold. Access to it is limited, non-exclusive, non-transferable, revocable, and conditioned on compliance with these Terms.
 
-**Downloaded agent software (the "runtime") is free to download, install, and
-use**, requires no account, access code, membership, or payment, and is licensed
-to you under the **GNU Affero General Public License, version 3 (AGPL-3.0)**,
-whose full text ships with the runtime as `LICENSE`. Nothing in these Terms
-restricts the rights the AGPL-3.0 grants you in the runtime source code. Where
-these Terms conflict with the AGPL-3.0 as applied to the runtime, the AGPL-3.0
-governs. The EULA available at cem888.ai is incorporated into these Terms by
-reference.
+Versions of the downloaded CEM888 runtime first released after v1.0.3 are licensed under **Business Source License 1.1 (BSL 1.1)**, subject to the parameters in the runtime's `LICENSE` file. **Business production use requires a separate paid commercial license from CEM Unlimited LLC.** CEM888 v1.0.3 and earlier releases remain governed by the license terms that accompanied those releases.
 
-Separately, **CEM Unlimited LLC offers a negotiated commercial license** for
-organizations that cannot accept AGPL-3.0 terms or that require proprietary
-redistribution, private modifications, or an enterprise support agreement. That
-commercial license is a separate written agreement and is **not** a modification
-of the AGPL-3.0.
+The EULA available at cem888.ai is incorporated into these Terms by reference.
 
 ## 5. Acceptable Use
 
