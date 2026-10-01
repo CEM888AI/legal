@@ -1,6 +1,6 @@
 # CEM888 End User License Agreement (EULA)
 
-**Last Updated: September 14, 2026**
+**Last Updated: October 1, 2026**
 
 This End User License Agreement ("EULA") is a legal agreement between you
 (either an individual or a single entity) and **CEM Unlimited LLC**
@@ -15,43 +15,15 @@ DO NOT DOWNLOAD OR USE THE SOFTWARE.**
 
 Two different things are licensed here, and this section keeps them separate.
 
-**(a) The Software (the CEM888 runtime).** The Software is free to download,
-install, and use and is licensed to you under the **GNU Affero General Public
-License, version 3 (AGPL-3.0)**, whose full text ships with the Software as
-`LICENSE`. That licence is what grants you the rights to run, copy, modify, and
-redistribute the Software. It charges no fee, requires no account, access code,
-membership, or payment, and nothing in this EULA narrows it. **Where any
-provision of this EULA conflicts with the AGPL-3.0 as applied to the Software,
-the AGPL-3.0 governs.**
+**(a) The Software (the CEM888 runtime).** Versions first released after v1.0.3 are licensed under the **Business Source License 1.1 (BSL 1.1)**, subject to the parameters in the Software's `LICENSE` file. Non-production use is permitted. Production use without a separate commercial license is permitted only for an individual's own personal, non-commercial use. **Production use by or for a business, organization, employer, client, customer, or revenue-generating activity requires a paid commercial license from CEM Unlimited LLC.** CEM888 v1.0.3 and earlier remain under the license terms that accompanied those releases.
 
-**(b) The hosted Service.** Subject to your compliance with this EULA and the
-CEM888 Terms of Service and to payment of any fees for optional paid services
-you order, we grant you a limited, non-exclusive, non-transferable, revocable
-license to access and use the hosted Service, for your own personal or internal
-business purposes. This licence covers the hosted Service only — it does not
-extend to the Software, which is governed by the AGPL-3.0 as stated in (a).
+**(b) The hosted Service.** Subject to your compliance with this EULA and the CEM888 Terms of Service and to payment of any applicable fees, we grant you a limited, non-exclusive, non-transferable, revocable license to access and use the hosted Service.
 
 ## 2. Restrictions
 
-**Nothing in this section restricts any right the AGPL-3.0 grants you in the
-Software. Where this section conflicts with the AGPL-3.0 as applied to the
-Software, the AGPL-3.0 governs.** As to the hosted Service only, you agree NOT
-to:
+Your rights in the Software are governed by the applicable software license. Unless the applicable license or a separate written commercial agreement permits it, you may not use the current BSL-licensed Software in business production, paid client work, proprietary embedding, resale, white-labeling, managed service use, or OEM distribution.
 
-1. Copy, reproduce, or distribute the hosted Service except as permitted above;
-2. Modify, adapt, or create derivative works of the hosted Service;
-3. Reverse engineer, decompile, or disassemble the hosted Service, or attempt
-   to derive the source code of any component of it that is not made available
-   to you under the AGPL-3.0;
-4. Remove, obscure, or alter any copyright, trademark, or proprietary notice;
-5. Rent, lease, lend, sell, resell, sublicense, or provide the hosted Service
-   as a service to third parties;
-6. Rebrand, white-label, or hold yourself out as the source or owner of the
-   hosted Service;
-7. Circumvent any access-control or tenant-isolation mechanism of the hosted
-   Service;
-8. Use the Software or the hosted Service to violate any law, or to infringe
-   any third party's rights.
+As to the hosted Service, you agree not to copy, resell, rebrand, circumvent access controls, or otherwise use it outside the rights expressly granted by these terms or a separate agreement.
 
 ## 3. Your Data and Your Direction
 
@@ -81,46 +53,19 @@ for their availability, accuracy, practices, or policies. BYOK
 
 ## 5. Ownership and Feedback
 
-The Software and all intellectual property in it — source code, architecture,
-memory/state design, integration methods, prompts, documentation, branding,
-and trade secrets — are owned by CEM Unlimited LLC. This EULA does not
-transfer any ownership to you. **Copyright ownership is not a restriction on
-your licence: the Software's source code is licensed to you under the AGPL-3.0
-as set out in Section 1, and nothing in this EULA limits the rights that
-licence grants you.** If you provide feedback or suggestions, you
-grant us an unrestricted, irrevocable, worldwide, royalty-free license to use
-them, and you assign to us any rights you may hold in them.
+The Software and all intellectual property in it — source code, architecture, memory/state design, integration methods, prompts, documentation, branding, and trade secrets — are owned by CEM Unlimited LLC and its licensors, subject to the rights granted under the applicable software license. If you provide feedback or suggestions, you grant us an unrestricted, irrevocable, worldwide, royalty-free license to use them.
 
 ## 6. License and Optional Paid Services
 
-**The Software is free to download, install, and use and does not require a
-subscription, membership, or payment of any kind.** The Software is licensed to
-you under the **GNU Affero General Public License, version 3 (AGPL-3.0)**, whose
-full text ships with the Software as `LICENSE`. Separately, CEM Unlimited LLC
-offers a negotiated commercial license for organizations that cannot accept
-AGPL-3.0 terms or that require proprietary redistribution or enterprise
-support; that commercial license is a separate written agreement and is not a
-modification of the AGPL-3.0.
+Evaluation, development, and other non-production use of current BSL-licensed releases may be used under BSL 1.1. Personal, non-commercial production use is also permitted by the current Additional Use Grant.
 
-Only optional paid services — hosting, managed operation, custom builds, and
-sponsorship — are billed, and each is billed on the terms stated when you order
-it. Some optional services, such as managed hosting, are billed monthly and
-renew until cancelled; a service renews only if you explicitly subscribe to it.
-We may modify optional-service pricing with 30 days' notice; changes do not
-apply to your then-current billing period. **Non-payment for an optional paid
-service does not terminate, limit, or revoke your AGPL-3.0 rights in the
-Software.**
+**Business production use requires a separate paid commercial license from CEM Unlimited LLC.** Commercial license terms, implementation fees, integration work, support, managed operation, certification, and other services may be priced separately.
+
+Pricing and renewal terms are governed by the commercial order form, quote, checkout, or written agreement accepted by the customer.
 
 ## 7. Termination
 
-This EULA is effective until terminated. It terminates automatically if you
-breach any term. We may terminate it, or suspend your access, for violation
-of the Terms of Service or this EULA, with or without notice. On termination:
-(i) this EULA and your access to the hosted Service and any optional paid
-service end; (ii) you must stop using the hosted Service; and (iii) sections 2,
-3, 5, 8, 9, 10, and 11 survive. **Termination of this EULA does not terminate,
-limit, or revoke the rights the AGPL-3.0 grants you in the Software; those
-rights continue for as long as you comply with the AGPL-3.0.**
+This EULA is effective until terminated. If a commercial license expires or terminates, any production use that depends on that commercial license must stop unless another valid license right applies. Rights in prior releases remain governed by the license terms that accompanied those releases.
 
 ## 8. Disclaimer of Warranties
 
