@@ -1,6 +1,6 @@
 # CEM888.AI — Landing Page & Signup Legal Requirements
 
-**Last Updated: September 8, 2026**
+**Last Updated: October 1, 2026**
 
 What must appear on the public site and at signup so every new user enters a
 binding agreement and CEM888's IP is claimed on first contact. Each item is
@@ -34,19 +34,10 @@ One line near any "consciousness / personality / autonomous agent" claim:
 Cuts FTC deception risk (claims that overstate AI capability) and feeds the
 contractual assumption-of-risk language.
 
-### A4. Recurring-charge disclosure at checkout — **[TODO — must add]**
-The runtime is free under the AGPL-3.0; **no subscription price is published
-for it and none should be shown.** Wherever an *optional paid service* (for
-example managed hosting) is priced and at the Stripe checkout:
+### A4. Commercial-license and recurring-charge disclosure at checkout — **[TODO — must add]**
+Where a commercial production license or recurring paid service is offered, show the price, billing cadence, renewal terms, and cancellation terms immediately before payment.
 
-> Billed monthly until cancelled. Renews automatically. Cancel anytime —
-> access continues to the end of the billing period.
-
-Required by FTC ROSCA (Restore Online Shoppers' Confidence Act): clear and
-conspicuous disclosure of recurring charges BEFORE payment, plus an easy
-cancellation path. This is the single most likely regulator/chargeback
-vector for a recurring service — put it directly above the pay button.
-State plainly that the free runtime requires no payment at all.
+For software licensing, clearly distinguish **free evaluation/non-production and personal non-commercial use** from **paid business production use**. Do not state that company production use is free.
 
 ### A5. DMCA / IP contact — **[TODO — add to footer or Terms]**
 "legal@cem888.ai" for copyright complaints. (Details live in ToS §15.)
@@ -101,5 +92,5 @@ handler must capture it before CEM-151 is closed.
 - Privacy Policy → `/privacy.html` (also `PRIVACY_POLICY.md`)
 - EULA → new page `/eula.html` **[TODO — needs to be added + linked]**
 - Early-Access/Beta Agreement → new page `/beta.html` **[TODO — needs to be added + linked]**
-- Software license (AGPL-3.0 community lane + separate paid commercial license)
+- Software license (Business Source License 1.1 + separate paid commercial license for business production use; v1.0.3 preserved under its historical terms)
   → `LICENSE.md` in the legal repo + packaged with installers
