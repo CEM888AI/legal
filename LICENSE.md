@@ -2,87 +2,46 @@
 
 **Copyright © 2026 CEM Unlimited LLC. CEM888 is a trademark of CEM Unlimited LLC.**
 
-CEM888 is **dual-licensed**. Two lanes exist, and you choose the one that applies
-to you.
+CEM888 uses a **source-available + commercial** licensing model.
 
 ---
 
-## 1. Community and open-source lane — AGPL-3.0
+## 1. Source-available lane — Business Source License 1.1
 
-The CEM888 runtime and its source code are licensed to you under the **GNU Affero
-General Public License, version 3 (AGPL-3.0)**. A copy of that licence ships with
-the runtime as `LICENSE`.
+CEM888 versions first released after v1.0.3 are licensed under the **Business Source License 1.1 (BSL 1.1)**, subject to the parameters in the runtime's `LICENSE` file.
 
-Under AGPL-3.0 you may run, study, modify, and redistribute CEM888 — **including
-for commercial purposes** — at no charge, provided you comply with AGPL-3.0's
-conditions. The most significant condition is § 13: if you run a modified version
-and let users interact with it over a network, you must offer those users the
-corresponding source code of your modified version.
+Under the current Additional Use Grant, you may copy, inspect, modify, redistribute, and make non-production use of the licensed work. Production use is permitted without a separate commercial license only when you are an individual using CEM888 solely for your own personal, non-commercial purposes.
 
-AGPL-3.0 charges no fee. Complying with AGPL-3.0 costs nothing.
+**Production use by or for a business, organization, employer, client, customer, or revenue-generating activity requires a separate paid commercial license from CEM Unlimited LLC.**
+
+CEM888 v1.0.3 and earlier releases remain under the license terms that accompanied those releases, including AGPL-3.0 for v1.0.3.
 
 ## 2. Commercial lane — paid license
 
-If you want to use, embed, redistribute, resell, white-label, or offer CEM888 as a
-hosted or managed service **without** complying with AGPL-3.0's obligations — for
-example, keeping your modifications or your integration proprietary — you need a
-separate **paid commercial license** from CEM Unlimited LLC.
+A commercial license is required for business production use, including internal company deployment, paid client work, proprietary embedding, resale, white-labeling, managed service use, OEM distribution, or other commercial production arrangements.
 
-Commercial licensing is negotiated per engagement. Contact **legal@cem888.ai**.
-
-> **The trigger is proprietary use, not company size.** A solo developer complying
-> with AGPL-3.0 needs no commercial license. A large organisation that is happy to
-> comply with AGPL-3.0 equally needs none.
+Commercial licensing is negotiated per engagement. Contact **legal@cem888.ai** or **creator@cem888.ai**.
 
 ## 3. Optional paid services
 
-Independently of licensing, CEM Unlimited LLC offers optional paid services —
-managed hosting, managed operation, and custom enterprise or local builds. These
-are conveniences, never a requirement for using the runtime, and each is billed on
-the terms stated when you order it. **Non-payment for an optional paid service does
-not terminate, limit, or revoke your AGPL-3.0 rights in the software.**
+Commercial licensing and services are separate concepts. CEM Unlimited LLC may also offer paid implementation, integration, managed operation, support, certification, or custom engineering. Buying or not buying those services does not change the software rights granted by the applicable software license.
 
-## 4. Sponsorship
+## 4. Contributions
 
-Sponsorship and donations support ongoing development. They are **optional**, change
-nothing about the licensing above, and purchase no software license, support
-agreement, or equity.
+Contributions are governed by the CEM888 Contributor License Agreement. Contributors retain ownership of their contributions while granting CEM888 the rights needed to distribute and relicense them under BSL 1.1, commercial terms, and future open-source terms.
 
-## 5. Contributions
+## 5. Ownership
 
-Contributions are accepted under the AGPL-3.0. Contributors must have the right to
-submit the work they contribute, and must not contribute code they do not have the
-right to license. Because CEM888 is also offered under a paid commercial license, a
-separate contributor agreement may be required before a contribution that CEM888
-distributes commercially is accepted; where one applies it will be presented before
-the contribution is merged.
+The software and all intellectual property in it are owned by CEM Unlimited LLC and its licensors, subject to the rights granted under the applicable software license and any preserved third-party licenses/notices.
 
-## 6. Ownership
+## 6. Disclaimer of Warranties & Limitation of Liability
 
-The software and all intellectual property in it are owned by CEM Unlimited LLC and
-its licensors. **Copyright ownership is not a restriction on the licences granted
-above:** the runtime source is licensed to you under the AGPL-3.0, and nothing in
-this document limits the rights that licence grants you.
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, CEM UNLIMITED LLC SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY DATA LOSS OR SYSTEM DAMAGE, ARISING FROM USE OF THE SOFTWARE. OUR TOTAL LIABILITY FOR ANY CLAIM SHALL NOT EXCEED THE AMOUNT YOU PAID US IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
 
-## 7. Disclaimer of Warranties & Limitation of Liability
+## 7. Governing Law
 
-THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT
-PERMITTED BY LAW, CEM UNLIMITED LLC SHALL NOT BE LIABLE FOR ANY INDIRECT,
-INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY DATA LOSS OR SYSTEM
-DAMAGE, ARISING FROM USE OF THE SOFTWARE. OUR TOTAL LIABILITY FOR ANY CLAIM SHALL
-NOT EXCEED THE AMOUNT YOU PAID US IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
-
-## 8. Governing Law
-
-This document is governed by the laws of the State of Florida, without regard to
-conflict-of-law principles. Any dispute arising hereunder shall be resolved in the
-state or federal courts located in Marion County, Florida, and you consent to the
-personal jurisdiction of such courts.
+This document is governed by the laws of the State of Florida, without regard to conflict-of-law principles. Any dispute arising hereunder shall be resolved in the state or federal courts located in Marion County, Florida, subject to any controlling terms in an executed commercial agreement.
 
 ---
 
-*CEM888 is a trademark of CEM Unlimited LLC. All other trademarks are the property
-of their respective owners. The AGPL-3.0 is a copyright licence published by the
-Free Software Foundation; its full text ships with the runtime as `LICENSE`.*
+*CEM888 is a trademark of CEM Unlimited LLC. All other trademarks are the property of their respective owners.*
