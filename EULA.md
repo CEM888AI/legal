@@ -15,13 +15,13 @@ DO NOT DOWNLOAD OR USE THE SOFTWARE.**
 
 Two different things are licensed here, and this section keeps them separate.
 
-**(a) The Software (the CEM888 runtime).** Versions first released after v1.0.3 are licensed under the **Business Source License 1.1 (BSL 1.1)**, subject to the parameters in the Software's `LICENSE` file. Non-production use is permitted. Production use without a separate commercial license is permitted only for an individual's own personal, non-commercial use. **Production use by or for a business, organization, employer, client, customer, or revenue-generating activity requires a paid commercial license from CEM Unlimited LLC.** CEM888 v1.0.3 and earlier remain under the license terms that accompanied those releases.
+**(a) The Software (the CEM888 runtime).** Current and future releases are licensed under the **Elastic License 2.0 (ELv2)**, reproduced in full in the Software's `LICENSE` file. ELv2 permits use, copying, distribution, and modification, and prohibits two things: providing the Software to third parties as a hosted or managed service, and moving, changing, disabling, or circumventing the license key functionality. **ELv2 never converts into an open-source license.** Business production use, resale, embedding, white-labeling, managed service use, and OEM distribution require a paid commercial license from CEM Unlimited LLC or a valid license key for the applicable tier. CEM888 v1.0.3 and earlier remain under the license terms that accompanied those releases, including AGPL-3.0 for v1.0.3.
 
 **(b) The hosted Service.** Subject to your compliance with this EULA and the CEM888 Terms of Service and to payment of any applicable fees, we grant you a limited, non-exclusive, non-transferable, revocable license to access and use the hosted Service.
 
 ## 2. Restrictions
 
-Your rights in the Software are governed by the applicable software license. Unless the applicable license or a separate written commercial agreement permits it, you may not use the current BSL-licensed Software in business production, paid client work, proprietary embedding, resale, white-labeling, managed service use, or OEM distribution.
+Your rights in the Software are governed by the applicable software license. Unless the applicable license, a valid license key, or a separate written commercial agreement permits it, you may not use the Software in business production, paid client work, proprietary embedding, resale, white-labeling, managed service use, or OEM distribution. In particular, you may not provide the Software to third parties as a hosted or managed service, and you may not circumvent the license key functionality.
 
 As to the hosted Service, you agree not to copy, resell, rebrand, circumvent access controls, or otherwise use it outside the rights expressly granted by these terms or a separate agreement.
 
@@ -57,7 +57,7 @@ The Software and all intellectual property in it — source code, architecture, 
 
 ## 6. License and Optional Paid Services
 
-Evaluation, development, and other non-production use of current BSL-licensed releases may be used under BSL 1.1. Personal, non-commercial production use is also permitted by the current Additional Use Grant.
+Evaluation, development, and other non-production use of current releases may be used under ELv2. Personal use is also permitted under ELv2.
 
 **Business production use requires a separate paid commercial license from CEM Unlimited LLC.** Commercial license terms, implementation fees, integration work, support, managed operation, certification, and other services may be priced separately.
 
@@ -112,7 +112,8 @@ actions).
 
 This EULA, together with the Terms of Service and Privacy Policy, is the
 entire agreement between you and us regarding the Software. Where this EULA and
-the AGPL-3.0 conflict as applied to the Software, the AGPL-3.0 governs. If any provision
+the applicable software license conflict as applied to the Software, that software license
+governs. If any provision
 is unenforceable, the remainder stays in effect. Our failure to enforce a
 provision is not a waiver. We may update this EULA by posting a revised
 version; continued use after the revision date constitutes acceptance. You

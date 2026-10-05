@@ -6,15 +6,20 @@ CEM888 uses a **source-available + commercial** licensing model.
 
 ---
 
-## 1. Source-available lane — Business Source License 1.1
+## 1. Source-available lane — Elastic License 2.0 (ELv2)
 
-CEM888 versions first released after v1.0.3 are licensed under the **Business Source License 1.1 (BSL 1.1)**, subject to the parameters in the runtime's `LICENSE` file.
+Current and future CEM888 releases are licensed under the **Elastic License 2.0 (ELv2)**, reproduced in full in the runtime's `LICENSE` file.
 
-Under the current Additional Use Grant, you may copy, inspect, modify, redistribute, and make non-production use of the licensed work. Production use is permitted without a separate commercial license only when you are an individual using CEM888 solely for your own personal, non-commercial purposes.
+ELv2 grants you a non-exclusive, royalty-free, worldwide, non-sublicensable, non-transferable license to use, copy, distribute, make available, and prepare derivative works of the Software, subject to two limitations: you may not provide the Software to third parties as a **hosted or managed service**, and you may not **move, change, disable, or circumvent the license key functionality** in the Software.
 
-**Production use by or for a business, organization, employer, client, customer, or revenue-generating activity requires a separate paid commercial license from CEM Unlimited LLC.**
+**ELv2 never converts into an open-source license.** It does not fall away into Apache, MIT, or any other permissive license after a fixed period.
 
-CEM888 v1.0.3 and earlier releases remain under the license terms that accompanied those releases, including AGPL-3.0 for v1.0.3.
+Business production use, resale, embedding, white-labeling, managed service use, and OEM distribution require a separate paid commercial license from CEM Unlimited LLC, or a valid CEM888 license key for the applicable tier. Contact **legal@cem888.ai** or **creator@cem888.ai**.
+
+**Release history — licensing changes do not apply retroactively:**
+- **v1.0.3 and earlier** — remain under the license terms that accompanied those releases, including AGPL-3.0 for v1.0.3.
+- **v1.0.4, and every later version released under Business Source License 1.1** — those BSL grants stand for those versions (Change License: Apache 2.0; Change Date: 2030-10-01) and are not affected by this change.
+- **Current and future versions** — Elastic License 2.0.
 
 ## 2. Commercial lane — paid license
 
@@ -28,7 +33,7 @@ Commercial licensing and services are separate concepts. CEM Unlimited LLC may a
 
 ## 4. Contributions
 
-Contributions are governed by the CEM888 Contributor License Agreement. Contributors retain ownership of their contributions while granting CEM888 the rights needed to distribute and relicense them under BSL 1.1, commercial terms, and future open-source terms.
+Contributions are governed by the CEM888 Contributor License Agreement. Contributors retain ownership of their contributions while granting CEM888 the rights needed to distribute and relicense them under ELv2, commercial terms, and any future licensing terms CEM888 adopts.
 
 ## 5. Ownership
 
