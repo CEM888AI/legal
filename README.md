@@ -11,7 +11,7 @@ linked from cem888.ai.
 
 | Document | Purpose | Status |
 |---|---|---|
-| [LICENSE.md](LICENSE.md) | Software licensing — BSL 1.1 source-available + paid business production license | Active |
+| [LICENSE.md](LICENSE.md) | Software licensing — Elastic License 2.0 (source-available, never converts) + paid business production license | Active |
 | [EULA.md](EULA.md) | End User License Agreement for downloaded agent software | Active |
 | [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md) | Website + Service Terms (clickwrap at signup) | Active |
 | [PRIVACY_POLICY.md](PRIVACY_POLICY.md) | Privacy policy (CCPA/CPRA + GDPR ready) | Active |
@@ -22,7 +22,7 @@ linked from cem888.ai.
 
 ## Effective dates
 
-All customer-facing documents: **September 8, 2026**, updated **October 1, 2026** to align the licence scope (BSL 1.1 source-available runtime + paid business production licence) across the legal repo and the site HTML
+All customer-facing documents: **September 8, 2026**, updated **October 1, 2026** to align the licence scope across the legal repo and the site HTML. Licence lane corrected to the **Elastic License 2.0 (ELv2)** — superseding BSL 1.1, which auto-converts to open source and gives away commercial rights (owner decision, Plane CEM-297) — across
 versions (`/terms.html`, `/privacy.html`, `/eula.html`, `/support.html`).
 
 ## Disclaimer
