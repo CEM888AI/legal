@@ -29,7 +29,7 @@ unauthorized or automated means.
 
 ## 3. Software Licensing and Paid Services
 
-Current CEM888 releases are source-available under the Elastic License 2.0 (ELv2) as described in Section 4. ELv2 permits use, copying, distribution, and modification, and prohibits providing the Software to third parties as a hosted or managed service and circumventing the license key functionality. ELv2 never converts into an open-source license.
+Current CEM888 releases are source-available under the CEM888 Source-Available Commercial License as described in Section 4. That license permits use, copying, distribution, and modification **for personal, non-commercial purposes**, and prohibits providing the Software to third parties as a hosted or managed service and circumventing the license key functionality. It never converts into an open-source license.
 
 **Business production use requires a paid commercial license from CEM Unlimited LLC.** Commercial licensing, implementation, integration, support, certification, managed operation, and other services may be priced separately.
 
@@ -39,7 +39,7 @@ Recurring billing, cancellation, refunds, and price changes for any paid plan ar
 
 The hosted Service is licensed, not sold. Access to it is limited, non-exclusive, non-transferable, revocable, and conditioned on compliance with these Terms.
 
-Current and future versions of the downloaded CEM888 runtime are licensed under the **Elastic License 2.0 (ELv2)**, reproduced in full in the runtime's `LICENSE` file. **ELv2 never converts into an open-source license.** Business production use, resale, embedding, white-labeling, managed service use, and OEM distribution require a separate paid commercial license from CEM Unlimited LLC or a valid license key for the applicable tier. CEM888 v1.0.4 and every later version released under Business Source License 1.1 remains governed by those BSL grants, which stand for those versions. CEM888 v1.0.3 and earlier releases remain governed by the license terms that accompanied those releases.
+Current and future versions of the downloaded CEM888 runtime are licensed under the **CEM888 Source-Available Commercial License**, reproduced in full in the runtime's `LICENSE` file. **It never converts into an open-source license.** Any Commercial Use — including business production use, resale, embedding, white-labeling, managed service use, and OEM distribution — requires a paid licence under the CEM888 Source-Available Commercial License from CEM Unlimited LLC or a valid license key for the applicable tier. CEM888 v1.0.4 and every later version released under Business Source License 1.1 remains governed by those BSL grants, which stand for those versions. Versions released under the Elastic License 2.0 remain governed by ELv2. CEM888 v1.0.3 and earlier releases remain governed by the license terms that accompanied those releases.
 
 The EULA available at cem888.ai is incorporated into these Terms by reference.
 
@@ -206,7 +206,7 @@ Service after the revision date constitutes acceptance of the revised Terms.
 ## 17. General
 
 These Terms, together with the Privacy Policy, the EULA, and the license
-applicable to the software (the Elastic License 2.0, or a separate negotiated
+applicable to the software (the CEM888 Source-Available Commercial License, or a separate negotiated
 commercial license where one applies), constitute the entire agreement between you and us. If any provision is held
 unenforceable, the remainder remains in effect. Our failure to enforce any
 provision is not a waiver. You may not assign these Terms without our written
