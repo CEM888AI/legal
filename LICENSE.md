@@ -1,52 +1,138 @@
-# CEM888 Licensing
+# CEM888 Source-Available Commercial License
 
-**Copyright © 2026 CEM Unlimited LLC. CEM888 is a trademark of CEM Unlimited LLC.**
-
-CEM888 uses a **source-available + commercial** licensing model.
-
----
-
-## 1. Source-available lane — Elastic License 2.0 (ELv2)
-
-Current and future CEM888 releases are licensed under the **Elastic License 2.0 (ELv2)**, reproduced in full in the runtime's `LICENSE` file.
-
-ELv2 grants you a non-exclusive, royalty-free, worldwide, non-sublicensable, non-transferable license to use, copy, distribute, make available, and prepare derivative works of the Software, subject to two limitations: you may not provide the Software to third parties as a **hosted or managed service**, and you may not **move, change, disable, or circumvent the license key functionality** in the Software.
-
-**ELv2 never converts into an open-source license.** It does not fall away into Apache, MIT, or any other permissive license after a fixed period.
-
-Business production use, resale, embedding, white-labeling, managed service use, and OEM distribution require a separate paid commercial license from CEM Unlimited LLC, or a valid CEM888 license key for the applicable tier. Contact **legal@cem888.ai** or **creator@cem888.ai**.
-
-**Release history — licensing changes do not apply retroactively:**
-- **v1.0.3 and earlier** — remain under the license terms that accompanied those releases, including AGPL-3.0 for v1.0.3.
-- **v1.0.4, and every later version released under Business Source License 1.1** — those BSL grants stand for those versions (Change License: Apache 2.0; Change Date: 2030-10-01) and are not affected by this change.
-- **Current and future versions** — Elastic License 2.0.
-
-## 2. Commercial lane — paid license
-
-A commercial license is required for business production use, including internal company deployment, paid client work, proprietary embedding, resale, white-labeling, managed service use, OEM distribution, or other commercial production arrangements.
-
-Commercial licensing is negotiated per engagement. Contact **legal@cem888.ai** or **creator@cem888.ai**.
-
-## 3. Optional paid services
-
-Commercial licensing and services are separate concepts. CEM Unlimited LLC may also offer paid implementation, integration, managed operation, support, certification, or custom engineering. Buying or not buying those services does not change the software rights granted by the applicable software license.
-
-## 4. Contributions
-
-Contributions are governed by the CEM888 Contributor License Agreement. Contributors retain ownership of their contributions while granting CEM888 the rights needed to distribute and relicense them under ELv2, commercial terms, and any future licensing terms CEM888 adopts.
-
-## 5. Ownership
-
-The software and all intellectual property in it are owned by CEM Unlimited LLC and its licensors, subject to the rights granted under the applicable software license and any preserved third-party licenses/notices.
-
-## 6. Disclaimer of Warranties & Limitation of Liability
-
-THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, CEM UNLIMITED LLC SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY DATA LOSS OR SYSTEM DAMAGE, ARISING FROM USE OF THE SOFTWARE. OUR TOTAL LIABILITY FOR ANY CLAIM SHALL NOT EXCEED THE AMOUNT YOU PAID US IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
-
-## 7. Governing Law
-
-This document is governed by the laws of the State of Florida, without regard to conflict-of-law principles. Any dispute arising hereunder shall be resolved in the state or federal courts located in Marion County, Florida, subject to any controlling terms in an executed commercial agreement.
+**Version:** 1.0 — DRAFT for review
+**Effective Date:** 2026-10-05 (this text replaces Elastic License v2 on the public repositories)
+**Licensor:** **CEM Unlimited LLC** (operating as "CEM888.AI")
+**License Type:** Source-Available. Commercial. **Not open source.**
+**Canonical URL:** https://cem888.ai/LICENSE.md
 
 ---
 
-*CEM888 is a trademark of CEM Unlimited LLC. All other trademarks are the property of their respective owners.*
+## 0. Plain-language summary (not a substitute for the terms below)
+CEM888 is **source-available**: you can read, audit, and modify the source. It is
+**free only for personal, non-commercial use** — running the **Free tier** of your
+own agent on your own machine. **Nobody makes money on it, and nobody builds a
+business on it, for free.** If you use it to earn revenue, or your business runs on
+it, or you build a product or service on it, you need a paid license. To use
+**Pro/Business** features, or to deploy CEM888 **for other people** (clients,
+customers, or as a service), you need a paid license. You may
+**not** host CEM888 as a service, run other people's accounts on it, rebrand it, or
+sell it without a Reseller/OEM license. The **License Key** governs exactly which
+features you are entitled to.
+
+---
+
+## 1. Definitions
+- **Software** — the CEM888 agent runtime, CLI, plugins, connectors, source code,
+  binaries, updates, and documentation.
+- **Source** — the human-readable source of the Software, published for audit.
+- **License Key** — the Ed25519-signed JSON file that states your tier,
+  entitlements, seats, and expiry. See `LICENSE-KEY-ISSUER-SPEC.md`.
+- **Internal Use** — use within one organization for that organization's own
+  operations, not for external parties.
+- **Commercial Use** — any use intended to produce revenue or that supports a
+  business's operations, including by a sole proprietorship; **building, hosting,
+  embedding, or selling any product or service that incorporates the Software or
+  depends on it**; and **using the Software's output to earn money**. Commercial
+  Use is never free.
+- **Client Deployment** — provisioning, configuring, or running the Software for,
+  or making it available to, any person or entity other than the licensee.
+- **Hosted Service** — making the Software's functionality available to anyone over
+  a network (SaaS, managed hosting, or platform), including multi-tenant instances.
+- **Multi-tenant** — hosting more than one separate client account or organization
+  on a shared instance.
+- **Update** — any release of the Software the Licensor publishes while your
+  license is active.
+
+## 2. Grant
+Subject to this License and to a valid License Key, the Licensor grants you a
+non-exclusive, non-transferable, revocable license to:
+1. read, audit, and modify the Source;
+2. install and run the Software on hardware you control for **personal,
+   non-commercial use** — this is the Free tier, and it never covers Commercial Use;
+3. use the Software for **Commercial Use, or in the operation of a business, only
+   while a valid License Key is present** — Pro for an individual, a Business
+   license for an organization; and
+4. exercise Reseller and OEM rights **only** under a separate written agreement.
+
+## 3. Free tier (no License Key required)
+**The Free tier is personal and non-commercial only.** It may not be used to earn
+revenue, in the operation of a business, or inside a product or service offered to
+anyone else — those uses require a paid license. It is granted at no charge and is
+limited to: **one host connector
+(DeepSeek only)**, **one agent profile**, **local continuity only (no remote MCP
+sync)**, and **no policy/prohibition-gate customization**. Full limits are in
+`TIER-MATRIX.md`, which is incorporated by reference.
+
+## 4. Paid tiers — annual license with perpetual fallback
+1. An annual license entitles you to run the licensed tier and to receive Updates
+   while the license is active.
+2. If you do **not** renew, your license converts to a **perpetual right to keep
+   running the last version you were licensed for** (the "perpetual floor"). You
+   may keep running that version indefinitely; you do **not** receive further
+   Updates or support.
+3. Expiry is enforced **locally** from the License Key. The Software makes **no
+   per-turn phone-home call** to verify licensing. (See the one-time installer
+   claim in the capability manifest; licensing itself is offline.)
+
+## 5. Permitted uses
+You **may**: run the Software on hardware you control; audit and modify the Source
+for your own use; use it for **personal, non-commercial purposes**; engage in
+**Internal Use only under a paid Business license**; receive and use Updates while
+licensed; and exercise Reseller/OEM rights while a valid agreement for those rights
+is in force.
+
+## 6. Prohibited uses
+You **may not**:
+1. **make money on the Software without a paid license** — any Commercial Use, or
+   any use in the operation of a business, on the Free tier;
+2. **build a business on the Software for free** — embedding, wrapping, hosting,
+   reselling, or building a product or service on it requires a separate
+   platform/OEM license, and never runs on the Free tier;
+3. offer the Software, or its functionality, as a **Hosted Service**;
+4. run **multi-tenant** instances;
+5. **rebrand, redistribute, or fork** the Software under another name;
+6. **resell, sublicense, or perform Client Deployments** without a Reseller/OEM
+   license;
+7. circumvent, disable, or alter any **feature gate**, or forge, alter, or
+   reuse a License Key you are not entitled to;
+8. remove or modify any copyright, license, or attribution notice; or
+9. use "CEM888" and related marks in derivative products without written consent.
+
+## 7. License Keys govern
+Where this text and a License Key conflict on entitlements, the License Key
+governs. A License Key is **evidence of entitlements, not of ownership**; it must
+be verified against the Licensor's published public key and may be revoked on
+breach or expiry.
+
+## 8. Attribution
+Public-facing uses must preserve the CEM888 copyright and license notices
+(**required**). A separate "Powered by CEM888" line is **not required** — so
+attribution can never conflict with the Reseller/OEM and white-label licenses sold
+under §6.6. Any use of the CEM888 marks still requires consent under §6.9.
+
+## 9. Term and termination
+This License runs while you comply with it and while any License Key is valid.
+It **terminates automatically** if you breach it. On termination you must stop all
+use beyond the Free tier and destroy copies, except that the §4.2 perpetual floor
+survives for versions you validly licensed.
+
+## 10. Warranty disclaimer and limitation of liability
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## 11. Governing law
+This License, and any dispute arising out of or relating to it, is governed by the
+laws of the State of **Delaware**, United States, without regard to conflict-of-law
+principles, and the courts of that State have exclusive jurisdiction.
+
+## 12. Contact
+**CEM888.AI Licensing** — legal@cem888.ai
+
+---
+© 2026 CEM Unlimited LLC. All rights reserved.
+"CEM888" and related marks are trademarks of CEM Unlimited LLC.
