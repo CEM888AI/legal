@@ -34,7 +34,7 @@ Commercial licensing and services are separate concepts. CEM Unlimited LLC may a
 
 ## 4. Contributions
 
-Contributions are governed by the CEM888 Contributor License Agreement. Contributors retain ownership of their contributions while granting CEM888 the rights needed to distribute and relicense them under ELv2, commercial terms, and any future licensing terms CEM888 adopts.
+Contributions are governed by the CEM888 Contributor License Agreement. Contributors retain ownership of their contributions while granting CEM888 the rights needed to distribute and relicense them under the CEM888 Source-Available Commercial License, commercial terms, and any future licensing terms CEM888 adopts.
 
 ## 5. Ownership
 
