@@ -92,5 +92,5 @@ handler must capture it before CEM-151 is closed.
 - Privacy Policy → `/privacy.html` (also `PRIVACY_POLICY.md`)
 - EULA → new page `/eula.html` **[TODO — needs to be added + linked]**
 - Early-Access/Beta Agreement → new page `/beta.html` **[TODO — needs to be added + linked]**
-- Software license (Business Source License 1.1 + separate paid commercial license for business production use; v1.0.3 preserved under its historical terms)
+- Software license (Elastic License 2.0 — never converts + separate paid commercial license for business production use; v1.0.4 and later versions released under Business Source License 1.1 preserved under those terms, and v1.0.3 and earlier under their historical terms)
   → `LICENSE.md` in the legal repo + packaged with installers
