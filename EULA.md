@@ -15,7 +15,7 @@ DO NOT DOWNLOAD OR USE THE SOFTWARE.**
 
 Two different things are licensed here, and this section keeps them separate.
 
-**(a) The Software (the CEM888 runtime).** Current and future releases are licensed under the **Elastic License 2.0 (ELv2)**, reproduced in full in the Software's `LICENSE` file. ELv2 permits use, copying, distribution, and modification, and prohibits two things: providing the Software to third parties as a hosted or managed service, and moving, changing, disabling, or circumventing the license key functionality. **ELv2 never converts into an open-source license.** Business production use, resale, embedding, white-labeling, managed service use, and OEM distribution require a paid commercial license from CEM Unlimited LLC or a valid license key for the applicable tier. CEM888 v1.0.3 and earlier remain under the license terms that accompanied those releases, including AGPL-3.0 for v1.0.3.
+**(a) The Software (the CEM888 runtime).** Current and future releases are licensed under the **CEM888 Source-Available Commercial License**, reproduced in full in the Software's `LICENSE` file. That license permits use, copying, distribution, and modification **for personal, non-commercial purposes**, and prohibits two things: providing the Software to third parties as a hosted or managed service, and moving, changing, disabling, or circumventing the license key functionality. **It never converts into an open-source license.** Any Commercial Use — including business production use, resale, embedding, white-labeling, managed service use, and OEM distribution — requires a paid licence under the CEM888 Source-Available Commercial License from CEM Unlimited LLC or a valid license key for the applicable tier. CEM888 v1.0.3 and earlier remain under the license terms that accompanied those releases, including AGPL-3.0 for v1.0.3. (Licensing changes are not retroactive: see `LICENSE.md` §13.)
 
 **(b) The hosted Service.** Subject to your compliance with this EULA and the CEM888 Terms of Service and to payment of any applicable fees, we grant you a limited, non-exclusive, non-transferable, revocable license to access and use the hosted Service.
 
@@ -57,7 +57,7 @@ The Software and all intellectual property in it — source code, architecture, 
 
 ## 6. License and Optional Paid Services
 
-Evaluation, development, and other non-production use of current releases may be used under ELv2. Personal use is also permitted under ELv2.
+Evaluation, development, and other non-production use of current releases may be used under the CEM888 Source-Available Commercial License. Personal, non-commercial use is also permitted under it.
 
 **Business production use requires a separate paid commercial license from CEM Unlimited LLC.** Commercial license terms, implementation fees, integration work, support, managed operation, certification, and other services may be priced separately.
 
