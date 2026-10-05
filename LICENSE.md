@@ -6,20 +6,21 @@ CEM888 uses a **source-available + commercial** licensing model.
 
 ---
 
-## 1. Source-available lane — Elastic License 2.0 (ELv2)
+## 1. Source-available lane — CEM888 Source-Available Commercial License
 
-Current and future CEM888 releases are licensed under the **Elastic License 2.0 (ELv2)**, reproduced in full in the runtime's `LICENSE` file.
+Current and future CEM888 releases are licensed under the **CEM888 Source-Available Commercial License**, reproduced in full in each repository's `LICENSE` file.
 
-ELv2 grants you a non-exclusive, royalty-free, worldwide, non-sublicensable, non-transferable license to use, copy, distribute, make available, and prepare derivative works of the Software, subject to two limitations: you may not provide the Software to third parties as a **hosted or managed service**, and you may not **move, change, disable, or circumvent the license key functionality** in the Software.
+The license grants you a non-exclusive, royalty-free, worldwide, non-sublicensable, non-transferable license to use, copy, distribute, make available, and prepare derivative works of the Software **for personal, non-commercial purposes**, subject to two limitations: you may not provide the Software to third parties as a **hosted or managed service**, and you may not **move, change, disable, or circumvent the license key functionality** in the Software.
 
-**ELv2 never converts into an open-source license.** It does not fall away into Apache, MIT, or any other permissive license after a fixed period.
+**This license never converts into an open-source license.** It does not fall away into Apache, MIT, or any other permissive license after a fixed period.
 
-Business production use, resale, embedding, white-labeling, managed service use, and OEM distribution require a separate paid commercial license from CEM Unlimited LLC, or a valid CEM888 license key for the applicable tier. Contact **legal@cem888.ai** or **creator@cem888.ai**.
+Business production use, resale, embedding, white-labeling, managed service use, and OEM distribution require a paid licence under the CEM888 Source-Available Commercial License from CEM Unlimited LLC, or a valid CEM888 license key for the applicable tier. Contact **legal@cem888.ai** or **creator@cem888.ai**.
 
 **Release history — licensing changes do not apply retroactively:**
 - **v1.0.3 and earlier** — remain under the license terms that accompanied those releases, including AGPL-3.0 for v1.0.3.
 - **v1.0.4, and every later version released under Business Source License 1.1** — those BSL grants stand for those versions (Change License: Apache 2.0; Change Date: 2030-10-01) and are not affected by this change.
-- **Current and future versions** — Elastic License 2.0.
+- **Versions released on or after 2026-10-05** — the CEM888 Source-Available Commercial License.
+- **Versions released under Elastic License 2.0** — those ELv2 grants stand for those versions and are not affected by this change.
 
 ## 2. Commercial lane — paid license
 
