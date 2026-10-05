@@ -29,7 +29,7 @@ unauthorized or automated means.
 
 ## 3. Software Licensing and Paid Services
 
-Current CEM888 releases are source-available under Business Source License 1.1 as described in Section 4. Evaluation and non-production use are available under that license, and personal non-commercial production use is permitted by the current Additional Use Grant.
+Current CEM888 releases are source-available under the Elastic License 2.0 (ELv2) as described in Section 4. ELv2 permits use, copying, distribution, and modification, and prohibits providing the Software to third parties as a hosted or managed service and circumventing the license key functionality. ELv2 never converts into an open-source license.
 
 **Business production use requires a paid commercial license from CEM Unlimited LLC.** Commercial licensing, implementation, integration, support, certification, managed operation, and other services may be priced separately.
 
@@ -39,7 +39,7 @@ Recurring billing, cancellation, refunds, and price changes for any paid plan ar
 
 The hosted Service is licensed, not sold. Access to it is limited, non-exclusive, non-transferable, revocable, and conditioned on compliance with these Terms.
 
-Versions of the downloaded CEM888 runtime first released after v1.0.3 are licensed under **Business Source License 1.1 (BSL 1.1)**, subject to the parameters in the runtime's `LICENSE` file. **Business production use requires a separate paid commercial license from CEM Unlimited LLC.** CEM888 v1.0.3 and earlier releases remain governed by the license terms that accompanied those releases.
+Current and future versions of the downloaded CEM888 runtime are licensed under the **Elastic License 2.0 (ELv2)**, reproduced in full in the runtime's `LICENSE` file. **ELv2 never converts into an open-source license.** Business production use, resale, embedding, white-labeling, managed service use, and OEM distribution require a separate paid commercial license from CEM Unlimited LLC or a valid license key for the applicable tier. CEM888 v1.0.4 and every later version released under Business Source License 1.1 remains governed by those BSL grants, which stand for those versions. CEM888 v1.0.3 and earlier releases remain governed by the license terms that accompanied those releases.
 
 The EULA available at cem888.ai is incorporated into these Terms by reference.
 
@@ -56,10 +56,10 @@ You agree not to use the Service to:
   lack authorization to control;
 - Resell, redistribute, rebrand, or white-label the hosted Service without
   explicit written permission; this restriction does not limit any right the
-  AGPL-3.0 grants you in the runtime source code;
+  applicable software license grants you in the runtime source code;
 - Reverse engineer, decompile, or attempt to derive the source code of any part
-  of the hosted Service that is not licensed to you under the AGPL-3.0 (for the
-  runtime itself, the AGPL-3.0 governs and expressly permits this);
+  of the hosted Service that is not licensed to you under the applicable
+  software license (for the runtime itself, that license governs);
 - Interfere with or disrupt the Service or its connected networks.
 
 We may suspend or terminate accounts that violate these Terms.
@@ -148,8 +148,8 @@ suspend or terminate your access for violation of these Terms, with or
 without notice. Upon termination: your access to the hosted Service ends and the licence in
 these Terms for the hosted Service ends; we may disable your account; and
 sections 5–18 survive as applicable. **Termination of your account does not
-terminate, limit, or revoke the rights the AGPL-3.0 grants you in the runtime;
-those rights continue for as long as you comply with the AGPL-3.0.** We will handle your data as
+terminate, limit, or revoke the rights the applicable software license grants
+you in the runtime; those rights continue for as long as you comply with it.** We will handle your data as
 described in the Privacy Policy.
 
 ## 13. Dispute Resolution: Arbitration, Class-Action Waiver, Governing Law
@@ -206,8 +206,8 @@ Service after the revision date constitutes acceptance of the revised Terms.
 ## 17. General
 
 These Terms, together with the Privacy Policy, the EULA, and the license
-applicable to the software (the AGPL-3.0, or a separate negotiated commercial
-license where one applies), constitute the entire agreement between you and us. If any provision is held
+applicable to the software (the Elastic License 2.0, or a separate negotiated
+commercial license where one applies), constitute the entire agreement between you and us. If any provision is held
 unenforceable, the remainder remains in effect. Our failure to enforce any
 provision is not a waiver. You may not assign these Terms without our written
 consent; we may assign them in connection with a merger, acquisition, or sale
