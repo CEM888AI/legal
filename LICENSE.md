@@ -17,7 +17,7 @@ The license grants you a non-exclusive, royalty-free, worldwide, non-sublicensab
 Business production use, resale, embedding, white-labeling, managed service use, and OEM distribution require a paid licence under the CEM888 Source-Available Commercial License from CEM Unlimited LLC, or a valid CEM888 license key for the applicable tier. Contact **legal@cem888.ai** or **creator@cem888.ai**.
 
 **Release history — licensing changes do not apply retroactively:**
-- **v1.0.3 and earlier** — remain under the license terms that accompanied those releases, including AGPL-3.0 for v1.0.3.
+- **v1.0.3 and earlier** — the engineering and audit record only (documentation, installers, evidence, licence text). No runtime engine source was published in any release, and no CEM888 release has ever been published under an open-source licence; earlier text naming one is withdrawn.
 - **v1.0.4, and every later version released under Business Source License 1.1** — those BSL grants stand for those versions (Change License: Apache 2.0; Change Date: 2030-10-01) and are not affected by this change.
 - **Versions released on or after 2026-10-05** — the CEM888 Source-Available Commercial License.
 - **Versions released under Elastic License 2.0** — those ELv2 grants stand for those versions and are not affected by this change.
