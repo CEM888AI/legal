@@ -10,7 +10,7 @@ CEM888 uses a **source-available + commercial** licensing model.
 
 Current and future CEM888 releases are licensed under the **CEM888 Source-Available Commercial License**, reproduced in full in each repository's `LICENSE` file.
 
-The license grants you a non-exclusive, royalty-free, worldwide, non-sublicensable, non-transferable license to use, copy, distribute, make available, and prepare derivative works of the Software **for personal, non-commercial purposes**, subject to two limitations: you may not provide the Software to third parties as a **hosted or managed service**, and you may not **move, change, disable, or circumvent the license key functionality** in the Software.
+The license permits downloading, installing, evaluating and personally running the **standalone runtime** without payment for non-commercial purposes. The separately distributed CEM888 desktop app is **not** included. Runtime source remains proprietary; source access for audit or internal modification is separately authorized. Redistribution, derivative products, hosted services, business use, and all commercial exploitation require paid licensing or written authorization. License-key protections may not be circumvented.
 
 **This license never converts into an open-source license.** It does not fall away into Apache, MIT, or any other permissive license after a fixed period.
 
