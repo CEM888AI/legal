@@ -24,7 +24,7 @@ linked from cem888.ai.
 
 ## Effective dates
 
-All customer-facing documents: **September 8, 2026**, updated **October 1, 2026** to align the licence scope across the legal repo and the site HTML, and updated **October 5, 2026** to the **CEM888 Source-Available Commercial License** (all public repositories, byte-identical), which superseded **Elastic License 2.0 (ELv2)** — superseding BSL 1.1, which auto-converts to open source and gives away commercial rights (owner decision, Plane CEM-297) — across versions (`/terms.html`, `/privacy.html`, `/eula.html`, `/support.html`).
+All customer-facing documents: **September 8, 2026**, updated **October 1, 2026** to align the licence scope across the legal repo and the site HTML, and updated **October 5, 2026** to the **CEM888 Source-Available Commercial License** (all public repositories, byte-identical) — across versions (`/terms.html`, `/privacy.html`, `/eula.html`, `/support.html`).
 
 ## Disclaimer
 
