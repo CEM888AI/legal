@@ -39,7 +39,7 @@ Recurring billing, cancellation, refunds, and price changes for any paid plan ar
 
 The hosted Service is licensed, not sold. Access to it is limited, non-exclusive, non-transferable, revocable, and conditioned on compliance with these Terms.
 
-Current and future versions of the downloaded CEM888 runtime are licensed under the **CEM888 Source-Available Commercial License**, reproduced in full in the runtime's `LICENSE` file. **It never converts into an open-source license.** Any Commercial Use — including business production use, resale, embedding, white-labeling, managed service use, and OEM distribution — requires a paid licence under the CEM888 Source-Available Commercial License from CEM Unlimited LLC or a valid license key for the applicable tier. CEM888 v1.0.4 and every later version released under Business Source License 1.1 remains governed by those BSL grants, which stand for those versions. Versions released under the Elastic License 2.0 remain governed by ELv2. CEM888 v1.0.3 and earlier releases remain governed by the license terms that accompanied those releases.
+Current CEM888 runtime releases are governed by the CEM888 Source-Available Commercial License in the runtime LICENSE file. It does not convert to an open-source license. Commercial use requires paid licensing from CEM Unlimited LLC or an applicable valid license key.
 
 The EULA available at cem888.ai is incorporated into these Terms by reference.
 
