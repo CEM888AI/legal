@@ -18,9 +18,7 @@ Business production use, resale, embedding, white-labeling, managed service use,
 
 **Release history — licensing changes do not apply retroactively:**
 - **v1.0.3 and earlier** — the engineering and audit record only (documentation, installers, evidence, licence text). No runtime engine source was published in any release, and no CEM888 release has ever been published under an open-source licence; earlier text naming one is withdrawn.
-- **v1.0.4, and every later version released under Business Source License 1.1** — those BSL grants stand for those versions (Change License: Apache 2.0; Change Date: 2030-10-01) and are not affected by this change.
 - **Versions released on or after 2026-10-05** — the CEM888 Source-Available Commercial License.
-- **Versions released under Elastic License 2.0** — those ELv2 grants stand for those versions and are not affected by this change.
 
 ## 2. Commercial lane — paid license
 
