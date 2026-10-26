@@ -92,5 +92,5 @@ handler must capture it before CEM-151 is closed.
 - Privacy Policy → `/privacy.html` (also `PRIVACY_POLICY.md`)
 - EULA → new page `/eula.html` **[TODO — needs to be added + linked]**
 - Early-Access/Beta Agreement → new page `/beta.html` **[TODO — needs to be added + linked]**
-- Software license (CEM888 Source-Available Commercial License — free download and personal non-commercial use; any Commercial Use requires a separate paid licence; never converts. v1.0.4 and later versions released under Business Source License 1.1 preserved under those terms, versions released under Elastic License 2.0 remain under ELv2, and v1.0.3 and earlier under their historical terms)
+- Software license (CEM888 Source-Available Commercial License; personal non-commercial use only; commercial use requires paid licensing; never converts to open source)
   → `LICENSE.md` in the legal repo + packaged with installers
